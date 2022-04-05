@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/humaniq-identity-dapp/static/css/main.d86b26cb.chunk.css",
+    "main.css": "/humaniq-identity-dapp/static/css/main.4d5150e8.chunk.css",
     "main.js": "/humaniq-identity-dapp/static/js/main.1a5e1bb4.chunk.js",
     "main.js.map": "/humaniq-identity-dapp/static/js/main.1a5e1bb4.chunk.js.map",
     "runtime-main.js": "/humaniq-identity-dapp/static/js/runtime-main.f110d514.js",
@@ -10,7 +10,7 @@
     "static/js/2.9a4acc2f.chunk.js.map": "/humaniq-identity-dapp/static/js/2.9a4acc2f.chunk.js.map",
     "index.html": "/humaniq-identity-dapp/index.html",
     "static/css/2.fe5ac6bf.chunk.css.map": "/humaniq-identity-dapp/static/css/2.fe5ac6bf.chunk.css.map",
-    "static/css/main.d86b26cb.chunk.css.map": "/humaniq-identity-dapp/static/css/main.d86b26cb.chunk.css.map",
+    "static/css/main.4d5150e8.chunk.css.map": "/humaniq-identity-dapp/static/css/main.4d5150e8.chunk.css.map",
     "static/js/2.9a4acc2f.chunk.js.LICENSE.txt": "/humaniq-identity-dapp/static/js/2.9a4acc2f.chunk.js.LICENSE.txt",
     "static/media/default.003f90b3.less": "/humaniq-identity-dapp/static/media/default.003f90b3.less",
     "static/media/index.512735b3.less": "/humaniq-identity-dapp/static/media/index.512735b3.less"
@@ -19,7 +19,7 @@
     "static/js/runtime-main.f110d514.js",
     "static/css/2.fe5ac6bf.chunk.css",
     "static/js/2.9a4acc2f.chunk.js",
-    "static/css/main.d86b26cb.chunk.css",
+    "static/css/main.4d5150e8.chunk.css",
     "static/js/main.1a5e1bb4.chunk.js"
   ]
 }
