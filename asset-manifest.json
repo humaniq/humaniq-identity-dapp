@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/humaniq-identity-dapp/static/css/main.aba3fba9.chunk.css",
-    "main.js": "/humaniq-identity-dapp/static/js/main.da4d91f8.chunk.js",
-    "main.js.map": "/humaniq-identity-dapp/static/js/main.da4d91f8.chunk.js.map",
+    "main.css": "/humaniq-identity-dapp/static/css/main.745b71ac.chunk.css",
+    "main.js": "/humaniq-identity-dapp/static/js/main.fef75500.chunk.js",
+    "main.js.map": "/humaniq-identity-dapp/static/js/main.fef75500.chunk.js.map",
     "runtime-main.js": "/humaniq-identity-dapp/static/js/runtime-main.f110d514.js",
     "runtime-main.js.map": "/humaniq-identity-dapp/static/js/runtime-main.f110d514.js.map",
-    "static/css/2.fe5ac6bf.chunk.css": "/humaniq-identity-dapp/static/css/2.fe5ac6bf.chunk.css",
-    "static/js/2.fc969719.chunk.js": "/humaniq-identity-dapp/static/js/2.fc969719.chunk.js",
-    "static/js/2.fc969719.chunk.js.map": "/humaniq-identity-dapp/static/js/2.fc969719.chunk.js.map",
+    "static/js/2.81645084.chunk.js": "/humaniq-identity-dapp/static/js/2.81645084.chunk.js",
+    "static/js/2.81645084.chunk.js.map": "/humaniq-identity-dapp/static/js/2.81645084.chunk.js.map",
     "index.html": "/humaniq-identity-dapp/index.html",
-    "static/css/2.fe5ac6bf.chunk.css.map": "/humaniq-identity-dapp/static/css/2.fe5ac6bf.chunk.css.map",
-    "static/css/main.aba3fba9.chunk.css.map": "/humaniq-identity-dapp/static/css/main.aba3fba9.chunk.css.map",
-    "static/js/2.fc969719.chunk.js.LICENSE.txt": "/humaniq-identity-dapp/static/js/2.fc969719.chunk.js.LICENSE.txt",
-    "static/media/default.003f90b3.less": "/humaniq-identity-dapp/static/media/default.003f90b3.less",
-    "static/media/index.512735b3.less": "/humaniq-identity-dapp/static/media/index.512735b3.less"
+    "static/css/main.745b71ac.chunk.css.map": "/humaniq-identity-dapp/static/css/main.745b71ac.chunk.css.map",
+    "static/js/2.81645084.chunk.js.LICENSE.txt": "/humaniq-identity-dapp/static/js/2.81645084.chunk.js.LICENSE.txt",
+    "static/media/check.e0144003.svg": "/humaniq-identity-dapp/static/media/check.e0144003.svg",
+    "static/media/clouds.db8c3472.svg": "/humaniq-identity-dapp/static/media/clouds.db8c3472.svg",
+    "static/media/humaniq-logo.cb2c62db.svg": "/humaniq-identity-dapp/static/media/humaniq-logo.cb2c62db.svg",
+    "static/media/wallet-connect-logo.6fa61a47.svg": "/humaniq-identity-dapp/static/media/wallet-connect-logo.6fa61a47.svg",
+    "static/media/web3-logo.9ae2b06d.svg": "/humaniq-identity-dapp/static/media/web3-logo.9ae2b06d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f110d514.js",
-    "static/css/2.fe5ac6bf.chunk.css",
-    "static/js/2.fc969719.chunk.js",
-    "static/css/main.aba3fba9.chunk.css",
-    "static/js/main.da4d91f8.chunk.js"
+    "static/js/2.81645084.chunk.js",
+    "static/css/main.745b71ac.chunk.css",
+    "static/js/main.fef75500.chunk.js"
   ]
 }
