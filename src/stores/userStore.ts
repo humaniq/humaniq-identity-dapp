@@ -145,8 +145,10 @@ export class User {
 
     const timeStamp = new Date().getTime();
     const request = `ADDRESS ${getProviderStore.currentAccount} UPDATE PERSONAL INFO TIMESTAMP ${timeStamp}`;
+
     try {
       const result = await getProviderStore.personalMessageRequest(request);
+
       if (result) {
         const body = {
           query: {
@@ -172,6 +174,7 @@ export class User {
           HUMANIQ_ROUTES.DAPP.POST_PROFILE_UPDATE,
           body
         );
+
         if (response.isOk) {
           setTimeout(() => {
             setAlert("Your profile successfuly updated");

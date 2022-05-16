@@ -12,7 +12,7 @@ export class HomeViewModel {
   initialized = false;
 
   constructor() {
-    makeAutoObservable(this, {}, { autoBind: true });
+    makeObservable(this, {}, { autoBind: true });
   }
 
   backClick = async () => {

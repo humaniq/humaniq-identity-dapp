@@ -6,10 +6,10 @@ import routes from "./utils/routes";
 import NotFound from "./screens/404/404";
 import b from "buffer";
 import { observer } from "mobx-react";
-import { ETHProvider } from "./stores/providerStore";
-import { AlertProps, Snackbar } from "@mui/material";
-import { app } from "./stores/appStore/appStore";
-import MuiAlert from "@mui/material/Alert";
+import { Layout } from "antd";
+import { WalletNotConnected } from "./components/app/WalletNotConnected";
+import { ProviderNotInjected } from "./components/app/ProviderNotInjected";
+import { ETHProvider } from "./stores/provider/providerStore";
 
 window.Buffer = b.Buffer;
 
